@@ -1,5 +1,4 @@
 #WEEK 1:
-Html Forms: https://github.com/gSchool/html-forms
 DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
 Tip Calc: https://github.com/gSchool/tip-calculator-html-js
 Air Travel Calc: https://github.com/gSchool/air-travel-calculator
