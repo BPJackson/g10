@@ -3,12 +3,10 @@ Intro to Algorithms
 Terminal styling / oh-my-zsh
 Git Branching
 
-
 Know the syntax to create an object literal
 Know the two ways to access object property values
 Know how to set a property value
 Know how to change a property value
-
 
 #Week 3
 Paths

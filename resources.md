@@ -1,7 +1,6 @@
 HTML:
 http://diveintohtml5.info/semantics.html
 
-
 Javascript:
 http://jsforcats.com/
 http://www.impressivewebs.com/10-essential-dom-methods-techniques-for-practical-javascript/
@@ -10,7 +9,6 @@ http://eloquentjavascript.net/06_object.html#h_kMzWSXQAtV
 http://eloquentjavascript.net/06_object.html#h_fkrGgDyRWc
 http://eloquentjavascript.net/06_object.html#h_SumMlRB7yn
 http://eloquentjavascript.net/06_object.html#h_Fdk67dJHwg
-
 
 Jade:
 http://jade-lang.com/tutorial/
@@ -33,7 +31,6 @@ Passport: http://passportjs.org/
 Katas:
 http://www.objectplayground.com/
 code wars
-
 
 
 APP IDEAS:

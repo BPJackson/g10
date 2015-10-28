@@ -1,4 +1,6 @@
 #WEEK 1:
+1. Html Forms: https://github.com/gSchool/html-forms
+
 DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
 Tip Calc: https://github.com/gSchool/tip-calculator-html-js
 Air Travel Calc: https://github.com/gSchool/air-travel-calculator
@@ -37,7 +39,7 @@ Add a paintbucket tool which allows a user to drag a box across the screen and p
 
 
 #Week 3:
-LEARN THIS!!! DAILY PLANS
+** See Daily Plans
 1pm - leftPad / rightPad
 2pm - transpose
 3pm - max / queryString
@@ -59,7 +61,7 @@ STRETCH: https://github.com/gSchool/http-errors-timeouts-and-circuit-breakers
 JavaScript Challenges: https://github.com/gSchool/javascript-challenges
 
 #WEEK 4
-LEARN THIS!!!! DAILY PLANS!!!
+** See Daily Plans
 
 Iteration and Object Assessment: https://github.com/gSchool/iteration-and-object-assessment
 Node Parsing: https://github.com/gSchool/node-async-text-parsing-0
@@ -222,7 +224,7 @@ Express - PostgreSQL - (Sequelize)
 React- https://github.com/gSchool/react-intro/tree/step-01
 Rantly-https://github.com/gSchool/rantly-language-framework-agnostic
 
-angular express mongo
+<!-- angular express mongo
 angular express PostgreSQL
 react express mongo
 react express PostgreSQL
@@ -233,6 +235,8 @@ react rails PostgreSQL
 php angular
 php react
 mySQL
+Socket.io -->
+
 
 #Angular:
 Practice assessment: https://github.com/gSchool/angular-practice-assessment
