@@ -10,7 +10,7 @@ Eloquent Js: https://github.com/gSchool/eloquent-javascript-solutions
 Stretch #1
   Tip Calculator: Refactor the entire page so it contains no markup in the body at all (other than the script tags)
   Use createElement and appendChild and the like.
-Stretch #2
+Stretch #2x
 Rewrite both Eloquent JavaScript solutions without using a loop. Consider forEach, map and reduce.
 
 HTML FORMS ASSESSMENT
