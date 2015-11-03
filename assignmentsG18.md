@@ -4,10 +4,9 @@
 3. html-forms(g10)
 
 #CSS
-
+1. css-exercises
 
 <!-- Selector Demo: https://github.com/gSchool/selector-demo
-CSS exercises: https://github.com/gSchool/css-exercises
 CSS Grid Building: https://github.com/gSchool/css-grid-building
 CSS Floats exercises: https://github.com/gSchool/css-floats-exercise
 http://learnlayout.com/

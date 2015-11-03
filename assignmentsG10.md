@@ -117,7 +117,7 @@ Mongo Bookstore: https://github.com/gSchool/mongodb-bookstore/
 Express-Mongo-Crud: https://github.com/gSchool/express-mongo-crud
 Sequence Diagrams: https://github.com/gSchool/sequence-diagrams
 Selector Demo: https://github.com/gSchool/selector-demo
-CSS exercises: https://github.com/gSchool/css-exercises
+2. CSS exercises: https://github.com/gSchool/css-exercises
 CSS Grid Building: https://github.com/gSchool/css-grid-building
 CSS Floats exercises: https://github.com/gSchool/css-floats-exercise
 http://learnlayout.com/
