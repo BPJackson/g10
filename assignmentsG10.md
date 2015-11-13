@@ -1,6 +1,5 @@
 #WEEK 1:
-1. Html Forms: https://github.com/gSchool/html-forms
-
+Html Forms: https://github.com/gSchool/html-forms
 DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
 Tip Calc: https://github.com/gSchool/tip-calculator-html-js
 Air Travel Calc: https://github.com/gSchool/air-travel-calculator
@@ -117,9 +116,9 @@ Mongo Bookstore: https://github.com/gSchool/mongodb-bookstore/
 Express-Mongo-Crud: https://github.com/gSchool/express-mongo-crud
 Sequence Diagrams: https://github.com/gSchool/sequence-diagrams
 Selector Demo: https://github.com/gSchool/selector-demo
-2. CSS exercises: https://github.com/gSchool/css-exercises
-CSS Grid Building: https://github.com/gSchool/css-grid-building
-CSS Floats exercises: https://github.com/gSchool/css-floats-exercise
+* CSS exercises: https://github.com/gSchool/css-exercises
+* CSS Grid Building: https://github.com/gSchool/css-grid-building
+* CSS Floats exercises: https://github.com/gSchool/css-floats-exercise
 http://learnlayout.com/
 http://www.smashingmagazine.com/2009/10/the-mystery-of-css-float-property/
 Markdown-table-processor: https://github.com/gSchool/markdown-table-processor
