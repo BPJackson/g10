@@ -1,15 +1,12 @@
 #WEEK 1:
-Html Forms: https://github.com/gSchool/html-forms
-DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
-Tip Calc: https://github.com/gSchool/tip-calculator-html-js
-Air Travel Calc: https://github.com/gSchool/air-travel-calculator
 Eloquent Js: https://github.com/gSchool/eloquent-javascript-solutions
 
 #Week 2:
 Stretch #1
   Tip Calculator: Refactor the entire page so it contains no markup in the body at all (other than the script tags)
   Use createElement and appendChild and the like.
-Stretch #2x
+
+Stretch #2
 Rewrite both Eloquent JavaScript solutions without using a loop. Consider forEach, map and reduce.
 
 HTML FORMS ASSESSMENT
