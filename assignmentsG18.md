@@ -27,20 +27,20 @@
 7. -Copying layouts https://webflow.com/blog/examples-of-unique-website-layouts
 
 #JavaScript
-  1.Javascript Challenges: https://github.com/gSchool/javascript-challenges
+  1.-Javascript Challenges: https://github.com/gSchool/javascript-challenges
 
 ###Memory Diagrams
 1. https://github.com/gSchool/memory-diagrams
 
 #DOM
-1. DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
-2. Tip Calc: https://github.com/gSchool/tip-calculator-html-js
-3. Air Travel Calc: https://github.com/gSchool/air-travel-calculator
+1. -DOM Intro: https://github.com/gSchool/DOM_Intro_Exercise
+2. -Tip Calc: https://github.com/gSchool/tip-calculator-html-js
+3. -Air Travel Calc: https://github.com/gSchool/air-travel-calculator
 
 
 ###Notes/Extras
-1. JS Basics: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html
-2. Eloquent - http://eloquentjavascript.net/
+1. -JS Basics: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html
+2. -Eloquent - http://eloquentjavascript.net/
 
 
 
@@ -48,11 +48,6 @@
 -g11 Curriculum: https://github.com/gSchool/g11-course-curriculum
 -Full Stack: https://github.com/gSchool/fullstack-curriculum
 
-
-
-
-
-Warmup: github https://github.com/gSchool/team-feature-branching-warmup
 
 Flexbox: http://flexbox.io/
 Workmanship: http://workmanship.io/
