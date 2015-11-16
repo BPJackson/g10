@@ -14,7 +14,7 @@
 
 #CSS
 1. css-exercises https://github.com/gSchool/css-exercises
-2. -css-floats https://github.com/gSchool/css-floats-exercise
+2. css-floats https://github.com/gSchool/css-floats-exercise
 3. -Wireframe Mockup 1 https://wireframe.cc/GuRoUr
 4. -Wireframe Mockup 2 https://wireframe.cc/0ftEEJ
 
@@ -23,7 +23,7 @@
 2. -Card Flip https://github.com/gSchool/css-card-flip
 3. -HTML/CSS https://github.com/gSchool/basic-html-practice
 4. -HTML / CSS 2 https://github.com/gSchool/html_css_basics
-5. -Grid Building https://github.com/gSchool/css-grid-building
+5. Grid Building https://github.com/gSchool/css-grid-building
 6. -Selector Demo (g10) https://github.com/gSchool/selector-demo
 7. -Copying layouts https://webflow.com/blog/examples-of-unique-website-layouts
 
