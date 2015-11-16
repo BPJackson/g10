@@ -4,6 +4,7 @@
 
 # Git and Github:
 1. Workflow: https://guides.github.com/introduction/flow/
+
 #HTML
 1. forms.html
 2. format.html
@@ -27,7 +28,8 @@
 7. -Copying layouts https://webflow.com/blog/examples-of-unique-website-layouts
 
 #JavaScript
-  1.-Javascript Challenges: https://github.com/gSchool/javascript-challenges
+  1. -Javascript Challenges: https://github.com/gSchool/javascript-challenges
+  2. -Eloquent Javascript: http://eloquentjavascript.net/02_program_structure.html
 
 ###Memory Diagrams
 1. https://github.com/gSchool/memory-diagrams
