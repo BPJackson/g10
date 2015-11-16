@@ -18,7 +18,7 @@
 3. -Wireframe Mockup 1 https://wireframe.cc/GuRoUr
 4. -Wireframe Mockup 2 https://wireframe.cc/0ftEEJ
 
-#CSS Stretch
+#Intermediate HTML and CSS
 1. -Nav Challenge https://github.com/gSchool/css-nav-challenge
 2. -Card Flip https://github.com/gSchool/css-card-flip
 3. -HTML/CSS https://github.com/gSchool/basic-html-practice
@@ -26,6 +26,7 @@
 5. Grid Building https://github.com/gSchool/css-grid-building
 6. -Selector Demo (g10) https://github.com/gSchool/selector-demo
 7. -Copying layouts https://webflow.com/blog/examples-of-unique-website-layouts
+8. -CSS Animations: https://github.com/gSchool/css-animations
 
 #JavaScript
   1. -Javascript Challenges: https://github.com/gSchool/javascript-challenges
